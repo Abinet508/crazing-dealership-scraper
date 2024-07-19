@@ -1,4 +1,3 @@
-```markdown
 # Crazing Dealership Scraper
 
 The Crazing Dealership Scraper is a Python application designed to extract information about car dealerships from the Carzing website. It navigates through the dealership listings, collects data on each dealer, and saves the information in a CSV file for further analysis or use. This tool is particularly useful for individuals or businesses looking to aggregate dealership data across different locations.
@@ -18,7 +17,7 @@ Before running the Crazing Dealership Scraper, ensure you have Python 3.6+ insta
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/abine508/your-repository/crazing-dealership-scraper.git
+   git clone https://github.com/Abinet508/crazing-dealership-scraper.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -51,12 +50,3 @@ The output CSV file will contain the following columns:
 - ZIP
 - CITY
 - INVENTORY URL
-
-## Contributing
-
-Contributions to the Crazing Dealership Scraper are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-```
